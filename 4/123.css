@@ -1,0 +1,42 @@
+#a {
+  background-color: #465cbd;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+}
+#b {
+  font-style: italic;
+  background-color: #3da772;
+  width: 100px;
+  height: 500px;
+  text-align: center;
+  line-height: 500px;
+  float: left;
+}
+#c {
+  font-style: oblique;
+  background-color: #422092;
+  width: 100px;
+  height: 500px;
+  text-align: center;
+  line-height: 500px;
+  float: right;
+}
+#d {
+  font-size: 36px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 500px;
+  background-color: #d45f10;
+  text-align: center;
+  line-height: 500px;
+}
+#e {
+  font-style: oblique;
+  font-size: 50px;
+  clear: both;
+  background-color: #8bbba9;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+}

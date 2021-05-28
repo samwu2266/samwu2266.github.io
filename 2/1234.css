@@ -1,0 +1,14 @@
+body {
+  background-image: url(media/bg06.jpg);
+  background-repeat: repeat-y;
+  background-color: greenyellow;
+}
+table {
+  font-size: 3em;
+  border-spacing: 5px;
+  background-color: greenyellow;
+}
+td {
+  border-width: 5px;
+  border-style: solid;
+}
